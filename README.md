@@ -36,5 +36,4 @@ bash
 Copy code
 ./guessing_game   # On Linux / macOS
 .\guessing_game   # On Windows (PowerShell or CMD)
- Correct! You guessed it in 3 tries.
-Your score: 97
+
