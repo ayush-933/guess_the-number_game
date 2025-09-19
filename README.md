@@ -36,14 +36,5 @@ bash
 Copy code
 ./guessing_game   # On Linux / macOS
 .\guessing_game   # On Windows (PowerShell or CMD)
-📌 Example Gameplay
-vbnet
-Copy code
-Guess the number between 1 and 100:
-50
-Too high! Try again.
-25
-Too low! Try again.
-37
-🎉 Correct! You guessed it in 3 tries.
+ Correct! You guessed it in 3 tries.
 Your score: 97
